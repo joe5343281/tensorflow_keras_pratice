@@ -3,6 +3,8 @@
 ## 選用書籍
 [TensorFlow+Keras 深度學習 人工智慧實務應用](https://www.tenlong.com.tw/products/9789864342167)
 
+## 進度 
+
 - [x] Chapter 1 人工智慧、機器學習、深度學習介紹
 - [x] Chpater 2 深度學習的原理
 - [x] Chapter 3 TensorFlow 與 Keras 介紹
@@ -35,3 +37,7 @@
 * tensorflow-gpu 1.8.0 (Official wheel, not installed from pip)
 * keras 2.1.6 (installed from pip)
 * jupyter 1.0.0 (installed from conda)
+
+### 虛擬環境
+* Ananconda3
+* python 3.6.5
